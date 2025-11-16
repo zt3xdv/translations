@@ -115,7 +115,7 @@ Components:
     QuickSearch:
         title: 'Búsqueda Rápida'
         esc_key: 'Esc'
-        enter_key: 'Intro'
+        enter_key: 'Enter'
         to_close: 'para cerrar'
         description: 'Buscar un servidor, ticket o anuncio'
         notfound: 'No pudimos encontrar resultados para tu búsqueda.'
@@ -2012,7 +2012,7 @@ images:
     card:
         delete: 'Eliminar'
         copy_link: 'Copiar Enlace'
-        uploaded: 'Cargada:'
+        uploaded: 'Subida:'
         kb: 'KB'
     config:
         title: 'Configuración de Carga de Imágenes'
